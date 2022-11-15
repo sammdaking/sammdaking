@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">A React Native mobile developer from Turkey</h3>
-<img align = "right" alt = "Gif" width = "480" height ="360"  src = "https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"
+<p <img align = "right" alt = "Gif" width = "480" height ="360"  src = "https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammdaking&label=Profile%20views&color=0e75b6&style=flat" alt="sammdaking" /> </p>
 
