@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">A React Native mobile developer from Turkey</h3>
-<img align ="right" alt ="coding" src ="![image](https://user-images.githubusercontent.com/62639338/201901176-edec2bff-bf0e-4a8e-bb95-b9efbb6dfa5c.png)" width="480" height="360">
+<img align ="right" alt ="coding" width="400" src ="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 
 - 🌱 I’m currently learning **React-Native**
